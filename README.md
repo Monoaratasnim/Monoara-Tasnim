@@ -31,11 +31,21 @@ Hi! I’m Monoara, a passionate frontend developer from Bangladesh. I enjoy craf
 
 ---
 
-## 🧠 Soft Skills
-* **Problem Solving:** Breaking down complex UI challenges into small, manageable components.
-* **Communication:** Fluent in collaborating with designers and stakeholders.
-* **Adaptability:** Eager to pivot and learn new frameworks as the web evolves.
-* **Time Management:** Committed to meeting deadlines and iterative development.
+## 🌈 Interests
+Beyond coding, I am interested in:
+* **UI/UX Exploration:** Studying modern design trends and typography.
+* **Open Source:** Enthusiastic about contributing to the developer community.
+* **Problem Solving:** Solving logical challenges to keep my brain sharp.
+* **Tech Communities:** Staying active in local and global developer meetups.
+
+---
+
+## 🔭 Looking Forward
+I am currently seeking opportunities to join a forward-thinking team where I can:
+* **Contribute** to high-impact web applications.
+* **Collaborate** with experienced developers to build robust frontend systems.
+* **Innovate** by applying modern frameworks like Next.js to solve real-world problems.
+* **Grow** into a versatile engineer who bridges the gap between design and code.
 
 ---
 
@@ -43,17 +53,6 @@ Hi! I’m Monoara, a passionate frontend developer from Bangladesh. I enjoy craf
 <p align="left">
   <a href="https://linkedin.com/in/monoara-tasnim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://facebook.com/monoara-tasnim-neeha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
