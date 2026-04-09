@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://your-banner-link.com/banner.png)
+![Banner](https://raw.githubusercontent.com/your-username/your-repo/main/5d50077a-1dcd-4baa-bb0d-87784a6a8dec.png)
 
 <h1 align="center">Hi 👋, I'm Monoara Tasnim</h1>
 <h3 align="center">Frontend Developer | React ⚛️ & Next.js 🚀 | Building clean & responsive UIs</h3>
