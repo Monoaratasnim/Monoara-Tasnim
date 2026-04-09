@@ -1,29 +1,25 @@
-<!-- Banner Image -->
-![Banner](banner2.png)
+<p align="center">
+  <img src="banner2.png" alt="Banner" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm Monoara Tasnim</h1>
 <h3 align="center">Frontend Developer | React ⚛️ & Next.js 🚀 | Building clean & responsive UIs</h3>
 
-📍 Chattogram, Bangladesh  
-✉️ hossainneeha8@gmail.com
+<p align="center">
+  📍 Chattogram, Bangladesh &nbsp;&nbsp; ✉️ hossainneeha8@gmail.com
+</p>
 
 ---
 
 ## About Me
 Hi! I’m Monoara, a passionate frontend developer from Bangladesh. I enjoy crafting fast and responsive web applications with clean and intuitive interfaces.  
 
-- 🌱 I’m currently exploring **Next.js**  
-- 💻 Working on a **tourism website project**  
-- 🎯 Focused on improving **UI/UX design skills**  
-
----
+- 🌱 I’m currently exploring **Next.js** - 🎯 Focused on improving **UI/UX design skills** ---
 
 ## Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/monoara-tasnim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://facebook.com/monoara-tasnim-neeha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://www.tiktok.com/@yourprofile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/TikTok_logo.svg" alt="TikTok" height="30" width="40" /></a>
-  <a href="https://snapchat.com/add/yourprofile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Snapchat_logo.svg/1024px-Snapchat_logo.svg.png" alt="Snapchat" height="30" width="40" /></a>
 </p>
 
 ---
@@ -43,20 +39,5 @@ Hi! I’m Monoara, a passionate frontend developer from Bangladesh. I enjoy craf
 ---
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
----
-
-## Pinned Repositories
-### 1. Tourism Website
-**Description:** A responsive tourism website built with Next.js & Tailwind CSS.  
-**Live Link:** [Tourism Site](https://tourism-site-live.com)  
-**Main Features:** Interactive maps, booking form, smooth UI  
-**Dependencies:** React, Next.js, Tailwind CSS, DaisyUI  
-**Run Locally:**
-```bash
-git clone https://github.com/username/tourism-website.git
-cd tourism-website
-npm install
-npm run dev
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
